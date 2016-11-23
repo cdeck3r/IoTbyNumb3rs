@@ -13,7 +13,7 @@ Ziel: Zahlenmaterial besser verstehen und qualitativ einschätzen zu können.
 
 ## Teilnehmer
 
-Dies ist Projekt im Bachelor [Wirtschaftsinformatik (WIB)](http://www.inf.reutlingen-university.de/studium/bachelor/wirtschaftsinformatik/)
+Dies ist Projekt im [Bachelor Wirtschaftsinformatik (WIB)](http://www.inf.reutlingen-university.de/studium/bachelor/wirtschaftsinformatik/)
 an der Hochschule Reutlingen.
 
 **Betreuer:** Christian Decker ([@cdeck3r](https://twitter.com/cdeck3r), [@RTWIB_Decker](https://twitter.com/rtwib_decker))
